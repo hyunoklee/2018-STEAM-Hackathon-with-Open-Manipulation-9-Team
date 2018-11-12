@@ -17,7 +17,7 @@ Our Demo is below flow.
 2 step. I move AR Marker.  
 3 step. Open Manipulator moves along the AR Marker movement.  
 
-<img src="/pickture/1.png" width="70%" height="70%">  
+<img src="/pickture/1.png" width="100%" height="100%">  
 
 Click image to link to YouTube video.  
 [![Video Label](http://img.youtube.com/vi/HZUmg3MdtU8/0.jpg)](https://youtu.be/HZUmg3MdtU8?t=0s)   
